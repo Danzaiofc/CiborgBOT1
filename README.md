@@ -10,7 +10,7 @@
 <a href="#"><img title="🔹𝗣𝘂𝗱𝗶𝗱𝗶𝗫𝗕𝗢𝗧🔹" src="https://img.shields.io/badge/CIBORGBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/evelynsecret"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARMANTOD-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/evelynsecret"><img title="Author" src="https://img.shields.io/badge/AUTHOR-INDRAGANS-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -52,7 +52,7 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Arman (VectorsMoe).
+Script ini di modifikasi sama saya sendiri Indra (Evelyn secret).
 ```bash
 • pkg install git
 • git clone https://github.com/evelynsecret/CiborgBOT1
@@ -65,7 +65,7 @@ Script ini di modifikasi sama saya sendiri Arman (VectorsMoe).
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| PUDIDIXBOT   |                   Feature        |
+| CiborgBOT1   |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
