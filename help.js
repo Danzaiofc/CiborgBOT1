@@ -17,7 +17,7 @@ const help = (prefix) => {
 ┃╚═══════════════════╝
 ┣▣━━━━━━[ 𝙈𝘼𝙆𝙀𝙍 ]━━━━━━▣┓
 ┃╔═══════════════════╗
-┃╠➤ *${prefix}
+┃╠➤ *${prefix}sssssssss
 ┃╠➤ *${prefix}sticker nobg*
 ┃╠➤ *${prefix}tsticker*
 ┃╠➤ *${prefix}nulis*
@@ -27,10 +27,6 @@ const help = (prefix) => {
 ┃╠➤ *${prefix}lwolf1*
 ┃╠➤ *${prefix}lwolf2*
 ┃╠➤ *${prefix}ljoker*
-┃╠➤ *${prefix}pronhub*
-┃╠➤ *${prefix}blackpink*
-┃╠➤ *${prefix}gfxmaker*
-┃╠➤ *${prefix}backgroundquotes*
 ┃╚═══════════════════╝
 ┣▣━━━━━━[  𝙈𝙀𝘿𝙄𝘼  ]━━━━━━▣┓
 ┃╔═══════════════════╗
@@ -54,12 +50,6 @@ const help = (prefix) => {
 ┃╠➤ *${prefix}ytmp4*
 ┃╠➤ *${prefix}yt*
 ┃╠➤ *${prefix}play*
-┃╠➤ *${prefix}downloadytmp3*
-┃╠➤ *${prefix}downloadytmp4*
-┃╠➤ *${prefix}joox*
-┃╠➤ *${prefix}igdownloader*
-┃╠➤ *${prefix}animesearch*
-┃╠➤ *${prefix}imagesearch*
 ┃╚═══════════════════╝
 ┣▣━━━━━━[ 𝙂𝙍𝙊𝙐𝘽𝙎 ]━━━━━▣┓
 ┃╔═══════════════════╗
